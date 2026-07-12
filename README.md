@@ -12,9 +12,9 @@ actualmente me encuentro fortaleciendo mis conocimientos C++.
 - 🔍 Experiencia académica en análisis de requisitos, validación y pruebas de software
 - 🎯 Objetivo: convertirme en un ingeniero capaz de diseñar sistemas escalables y liderar equipos de desarrollo
 
-##GitHub stats
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Erick-Sax&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-Sax&show_icons=true&theme=dark)
 
 
 
